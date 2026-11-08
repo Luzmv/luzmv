@@ -9,7 +9,7 @@ I am an aspiring tech professional transitioning from a solid 10-year career in 
 * **Focus Areas:** Data Engineering, BI & Reporting, Relational Databases (ETL), Application Architecture
 
 ### 📂 Featured Projects
-* [**🚗 Australian Car Crash Data Analysis (Power BI)**](LINK_A_TU_REPO_DE_POWERBI) - Data transformation, DAX, and interactive dashboards to generate public safety insights.
+* [**🚗 Australian Car Crash Data Analysis (Power BI)**](https://github.com/Luzmv/Australian-Car-Crash-Analysis.git) - Data transformation, DAX, and interactive dashboards to generate public safety insights.
 * [**🐨 Koalance Architecture Showcase**](LINK_A_TU_REPO_DE_KOALANCE) - API design and relational database architecture (Python, SQL, Supabase) for a shared expense platform.
 
 
